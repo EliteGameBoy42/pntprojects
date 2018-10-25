@@ -7,7 +7,8 @@ public class Helloworld {
 		
 		int num=100;
 		System.out.println(num);
-		
+
+		System.out.print("This is a update line.");
 		
 		
 		}
